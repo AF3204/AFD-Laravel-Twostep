@@ -1,3 +1,6 @@
+## Update as of 2021-11-01
+This project needs to be revamped and rectified of it's security vulnerabilities. This is using the old Laravel 4.2 version, and since then Laravel has gone through a lot of changes. I will revisit and make the right changes.
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
